@@ -1,0 +1,6 @@
+print("Complete Name: Trisha Aira R. Pabonita")
+print("Course: Computer Science")
+print("Section: CS1E")
+print("Age: 18")
+print("Birthday: May 18, 2005")
+print("Complete Home Address: Agora Lapasan, Gaabucayan Ext.")
